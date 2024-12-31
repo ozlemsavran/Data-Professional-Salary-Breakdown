@@ -23,16 +23,20 @@ This project aims to analyze the salaries, job satisfaction, and other career-re
   - Relationship between work/life balance and salary  
   - Impact of demographic factors  
 - **Visualizations:**  
-  - Data visualization using bar charts, scatter plots, and maps.  
-
+  - Data visualization using bar charts, scatter plots, and maps.
+  -  
+##  DAX Formulas Used  
+- **`DISTINCTCOUNT`**  
+- **`CALCULATE`**  
+- **`COUNTROWS`**  
+- **`SWITCH`**
+- 
 ## Use Cases  
 This dashboard can be used for the following purposes:  
 - Conducting salary analysis for HR teams  
 - Understanding employee satisfaction and sectoral trends  
 - Data analysis for career guidance and sector selection  
 
-## License  
-This project is licensed under the [Specify license type, e.g., MIT License or Creative Commons]. For more information, see the `LICENSE` file.
 
 
 
