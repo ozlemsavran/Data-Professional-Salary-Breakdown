@@ -21,16 +21,17 @@ This project aims to analyze the salaries, job satisfaction, and other career-re
   - Salary ranges and sectoral differences  
   - Comparison of job satisfaction scores  
   - Relationship between work/life balance and salary  
-  - Impact of demographic factors  
-- **Visualizations:**  
+  - Impact of demographic factors
+     
+  **Visualizations:**  
   - Data visualization using bar charts, scatter plots, and maps.
-  -  
+    
 ##  DAX Formulas Used  
 - **`DISTINCTCOUNT`**  
 - **`CALCULATE`**  
 - **`COUNTROWS`**  
 - **`SWITCH`**
-- 
+  
 ## Use Cases  
 This dashboard can be used for the following purposes:  
 - Conducting salary analysis for HR teams  
