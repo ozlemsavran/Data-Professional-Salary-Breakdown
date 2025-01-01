@@ -12,10 +12,6 @@ This project aims to analyze the salaries, job satisfaction, and other career-re
   - Job satisfaction  
   - Education levels etc.
 
-## Project Files  
-- **`dashboard.pbix`:** Power BI dashboard file.  
-- **`screenshot.png`:** Screenshot of the dashboard.  
-
 ## Dashboard Features  
 - **Analyzed Areas:**  
   - Salary ranges and sectoral differences  
