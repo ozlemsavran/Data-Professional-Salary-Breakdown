@@ -33,7 +33,6 @@ This dashboard can be used for the following purposes:
 - Conducting salary analysis for HR teams  
 - Understanding employee satisfaction and sectoral trends  
 - Data analysis for career guidance and sector selection  
-
-
+Click here for dashboard. [Data Professional Salary Breakdown](https://github.com/ozlemsavran/Data-Professional-Salary-Breakdown/blob/1ed5e91920587dfdaa726320aa7eada7efcdfd86/Data%20Professional%20Salary%20Breakdown.pbix)
 
 
